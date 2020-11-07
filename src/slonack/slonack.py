@@ -37,7 +37,7 @@ def main():
 					"type": "header",
 					"text": {
 						"type": "plain_text",
-						"text": "SonaCloud Quality Gate Status :alert: "
+						"text": "SonarCloud Quality Gate Status :alert: "
 					}
 				},
 				{
