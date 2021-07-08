@@ -20,7 +20,7 @@ Position 5 = Slack App Authentication
 Usage
 ===========
 ```
-python3 slonack.py 32 nibss-dev_Sample-Project devopsteam ed7480ef4fd6eab0134e3a85738 xoxb-7851-1440804-iFQ8VLbcyfr
+python3 slonack.py 32 sample-org_Project devopsteam ed7480ef4fd6eab0134e3a85738 xoxb-7851-1440804-iFQ8VLbcyfr
 ```
 
 Note
