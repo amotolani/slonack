@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* David Adelowo <dadelowo@nibss-plc.com.ng>
+* David Adelowo <motolani2007@gmail.com>
